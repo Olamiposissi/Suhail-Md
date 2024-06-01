@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> fearless md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,16 +8,16 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/e1e5b656a15d94c514f7e.jpg">
+  .
+    <img alt="Fearless-md" height="400" src="https://telegra.ph/file/e1e5b656a15d94c514f7e.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/fearlesstechInfo/fearless-Md/fork">
+    <img src="https://img.shields.io/github/forks/fearlessTechInfo/fearless-Md?style=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
      <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
@@ -30,13 +30,13 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{fearlessTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
 
 <p align="center">
 
  <a href="https://github.com/SuhailTechInfo">
  <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
+   <a href="https://github.com/fearlessTechInfo">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
   </a>
   
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> fearless MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
